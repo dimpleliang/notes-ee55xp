@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dimpleliang.github.io/notes-ee55xp/sitemap.xml
